@@ -17,4 +17,3 @@ public class Ground : MonoBehaviour
         ground.material.mainTextureOffset -= new Vector2(0.003f, 0);
     }
 }
-
